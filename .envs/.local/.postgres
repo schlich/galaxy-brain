@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=galaxy_brain
+POSTGRES_USER=HUyQbbWIYUzKhQwhuoElldSeNLSbTSsz
+POSTGRES_PASSWORD=lnDprqTJBlAeOYEHVX3Ftva5MCgfRREMIqwALD7MdIDRScqWC94GhGA1hcYRYhyi
