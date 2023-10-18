@@ -5,6 +5,8 @@ volumes:
   galaxy_brain_local_postgres_data_backups: {}
 
 services:
+  dev:
+    image: mcr.microsoft.com/devcontainers/python:3.11
   django: &django
     build:
       context: .
